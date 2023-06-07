@@ -18,7 +18,7 @@
         }
     }
 
-    // Example usage:
+    // Example usage to test the search module
     val searchModule = TravelAppSearch()
     searchModule.searchFlights("Paris", "London", "2023-01-01")
     searchModule.searchRail("Berlin", "Munich", "2023-01-01")
